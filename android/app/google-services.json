@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "498053798948",
+    "project_id": "classico-4df99",
+    "storage_bucket": "classico-4df99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498053798948:android:059e1bac2578aa3dd10cb1",
+        "android_client_info": {
+          "package_name": "com.example.classicon_vs_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1rYtSPZ18my2QEXfGHA0e1eaBZPsdug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498053798948-uhc70koss3taghajcptqkl51qak9o7as.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.classiconVsCode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498053798948:android:011e324337081b3fd10cb1",
+        "android_client_info": {
+          "package_name": "com.example.skill_barter_new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498053798948-up37fqqg1du7hu1cu6motoojdqgdaj5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skill_barter_new_project",
+            "certificate_hash": "dcd5977ff3d1278494d4c25036a90750baef0c62"
+          }
+        },
+        {
+          "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1rYtSPZ18my2QEXfGHA0e1eaBZPsdug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498053798948-uhc70koss3taghajcptqkl51qak9o7as.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.classiconVsCode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498053798948:android:8d1406861ccee1a6d10cb1",
+        "android_client_info": {
+          "package_name": "com.example.skill_barter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498053798948-8ck17h9hjqb4sga3t9h2adcc50o5a2s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skill_barter_project",
+            "certificate_hash": "dcd5977ff3d1278494d4c25036a90750baef0c62"
+          }
+        },
+        {
+          "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1rYtSPZ18my2QEXfGHA0e1eaBZPsdug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498053798948-nj7100hbsoc67j905tsk0evtktqov1qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498053798948-uhc70koss3taghajcptqkl51qak9o7as.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.classiconVsCode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
